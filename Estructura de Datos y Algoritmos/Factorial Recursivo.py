@@ -2,10 +2,9 @@
 #Erick Segura Sanchez
 
 def factorial(n):
-    if n == 0:
+    if n <= 0:
         return 1
-    elif n<0:
-        return "No existe el factorial de un numero negativo"
+    
     else:
         return n * factorial(n-1)
 

@@ -1,0 +1,3 @@
+D:/Users/conta/Documents/Tec/Tercer Semestre/Estructura de Datos y Algoritmos/BSTRecorrido/cmake-build-debug/CMakeFiles/BSTRecorrido.dir
+D:/Users/conta/Documents/Tec/Tercer Semestre/Estructura de Datos y Algoritmos/BSTRecorrido/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/conta/Documents/Tec/Tercer Semestre/Estructura de Datos y Algoritmos/BSTRecorrido/cmake-build-debug/CMakeFiles/rebuild_cache.dir
