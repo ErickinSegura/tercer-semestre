@@ -1,3 +1,7 @@
+<img align='right' src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/alacran3ero.png?raw=true' width="100px"  height='100px'>
+
+<br>
+
 # IoRoots
 
 Miembros del equipo:
@@ -12,12 +16,26 @@ El objetivo de este reto es tener una introducción al desarrollo de productos d
 
 ## Descripción
 
-No Hay Por el momento jjjjj
+Para la solución de nuestro reto presentamos un prototipo de una maceta inteligente la cual podía medir luminosidad, humedad en la tierra y temperatura ambiente de la maceta, fue hecha con un diseño divertido e impreso con materiales biodegradables. Añadido a esto realizamos una plataforma donde podías ver los datos graficados guardados por los sensores de la maceta.
 
 ## Materiales Y Herramientas
 
 - NodeMCU (ESP8266)
 - ArduinoIDE
+- Visual Studio Code
 - C++
 - NodeRed
-- MongoDB
+- MySQL
+- DHT11
+- Sensor de Humedad en Tierra
+- Sensor de Luminosidad
+
+## Imagenes del Prototipo
+
+Imágen del Prototipo
+
+<img src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/alacran3ero.png?raw=true' width="100px"  height='100px'>
+
+Imágen de la página
+
+<img src='https://github.com/ErickinSegura/ErickinSegura/blob/master/src/alacran3ero.png?raw=true' width="100px"  height='100px'>
