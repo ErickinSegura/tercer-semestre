@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/ErickinSegura/tercer-semestre/blob/master/Internet%20de%20las%20Cosas/Reto/src/image.png' width="100px"  height='100px'>
+<img align='right' src='https://github.com/ErickinSegura/tercer-semestre/blob/master/Internet%20de%20las%20Cosas/Reto/src/image.png' width="100px"  height='200px'>
 
 <br>
 
@@ -34,7 +34,7 @@ Para la solución de nuestro reto presentamos un prototipo de una maceta intelig
 
 Imágen del Prototipo
 
-<img src='https://github.com/ErickinSegura/tercer-semestre/blob/master/Internet%20de%20las%20Cosas/Reto/src/proto.png' width="300px"  height='300px'>
+<img src='https://github.com/ErickinSegura/tercer-semestre/blob/master/Internet%20de%20las%20Cosas/Reto/src/proto.jpg' width="300px"  height='300px'>
 
 Imágen de la página
 
